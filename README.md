@@ -31,7 +31,7 @@ Al finalizar el curso, el estudiante estará en capacidad de:
     <td rowspan="3">Aplicaciones en Ciencia de Datos</td>
     <td>1. Introducción al Curso </td>
     <td><a href="">Presentación 1</a></td>
-    <td><a href="">0.a Configuración Ambiente</a><br><a href="">0.b Repaso Python</a></td>
+    <td><a href="">0.a Configuración Ambiente</a><br><a href="https://github.com/Ciencia-de-Datos-Uniandes/DATA-1002-20262/blob/main/Laboratorios/0.a%20Configuraci%C3%B3n%20del%20Ambiente.ipynb">0.b Repaso Python</a></td>
     <td><a href = "">Clase 1</a></td>
   </tr>
   <tr>
