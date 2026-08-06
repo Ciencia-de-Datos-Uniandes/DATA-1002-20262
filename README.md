@@ -31,7 +31,7 @@ Al finalizar el curso, el estudiante estará en capacidad de:
     <td rowspan="3">Aplicaciones en Ciencia de Datos</td>
     <td>1. Introducción al Curso </td>
     <td><a href="">Presentación 1</a></td>
-    <td><a href="">0.a Configuración Ambiente</a><br><a href="https://github.com/Ciencia-de-Datos-Uniandes/DATA-1002-20262/blob/main/Laboratorios/0.a%20Configuraci%C3%B3n%20del%20Ambiente.ipynb">0.b Repaso Python</a></td>
+    <td><a href="https://github.com/Ciencia-de-Datos-Uniandes/DATA-1002-20262/blob/main/Laboratorios/Tutoriales%20y%20Ejercicios%20Guiados/1.a%20Configuraci%C3%B3n%20del%20Ambiente.ipynb">0.a Configuración Ambiente</a><br><a href="https://github.com/Ciencia-de-Datos-Uniandes/DATA-1002-20262/blob/main/Laboratorios/Tutoriales%20y%20Ejercicios%20Guiados/1.b%20Introduccion%20a%20Python.ipynb">0.b Repaso Python</a></td>
     <td><a href = "">Clase 1</a></td>
   </tr>
   <tr>
@@ -53,7 +53,32 @@ Al finalizar el curso, el estudiante estará en capacidad de:
 
 ## Bibliografía
 
-* Walpole, R.; Myers, S.; Ye, K. (2012) [Probabilidad y Estadística para ingeniería y ciencias](https://vereniciafunez94hotmail.files.wordpress.com/2014/08/8va-probabilidad-y-estadistica-para-ingenier-walpole_8.pdf). Octava edición. Prentice Hall. 
-* Montgomery, D. (2013) [Design and analysis of experiments](http://faculty.business.utsa.edu/manderso/STA4723/readings/Douglas-C.-Montgomery-Design-and-Analysis-of-Experiments-Wiley-2012.pdf). Eighth edition. John Wiley and Sons. 
-* Neter, J.; Kutner, M.; Nachtsheim, C.; Wasserman, W. (1996) [Applied Linear Statistical Models](http://users.stat.ufl.edu/~rohitpatra/4210/KNNL.pdf). Fourth edition. Irwin. 
-* Gujarati, D.; Porter, D. (2010) [Econometría](https://www.academia.edu/33064534/Gujarati_-_Econometría_-_5ta_Edición.pdf). Quinta edición. McGraw Hill 
+* RG1: Rollins, J. B. (2015). Foundational Methodology for Data Science. IBM
+Analytics.
+* RG 2: Chapman, P. et al. (2000). CRISP-DM 1.0: Step-by-Step Data Mining
+Guide. CRISP-DM Consortium.
+* RG 3: Severance, C. (2016). Python for Everybody: Exploring Data Using Python
+3.
+* RG 4: McKinney, W. (2022). Python for Data Analysis: Data Wrangling with
+pandas, NumPy, and Jupyter (3rd ed.). O’Reilly.
+* RG 5: George, N. (2021). Practical Data Science with Python. Packt.
+* RG 6: Petrou, T. (2017). Pandas cookbook: Recipes for scientific computing, time
+series analysis and data visualization using Python. Packt Publishing Ltd.
+* RG 7: Knaflic, C. N. (2025). Storytelling with data: A data visualization guide for
+business professionals. John Wiley & Sons.
+* RG 8: Wilke, C. O. (2019). Fundamentals of data visualization: a primer on
+making informative and compelling figures. O'Reilly Media.
+6
+* RG 9: Bruce, P., Bruce, A., & Gedeck, P. (2020). Practical statistics for data
+scientists: 50+ essential concepts using R and Python. O'Reilly Media.
+* RG 10: O'neil, C. (2017). Weapons of math destruction: How big data increases
+inequality and threatens democracy. Crown.
+* RG 11: Chacon, S., & Straub, B. (2014). Pro Git (2nd ed.). Apress / git-scm.
+* RG 12: The Turing Way Community. The Turing Way: A handbook for
+reproducible, ethical and collaborative data science.
+* RG 13: Requests documentation + Python json documentation.
+* RG 14: Socrata Developers: SODA API + Manual de Desarrollador de Datos
+Abiertos Colombia.
+* RG 15: Plotly Python Documentation
+* RG 16: Streamlit Documentation
+* RG 17: DrivenData. Deon: Data Science Ethics Checklist
