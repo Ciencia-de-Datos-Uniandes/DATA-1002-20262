@@ -11,7 +11,11 @@ Al finalizar el curso, el estudiante estará en capacidad de:
 
 **Profesores:** 
 * Nicolás Mejía Martínez - n.mejia10@uniandes.edu.co
-* Nicolas Felipe Suarez Ariza - n.suareza@uniandes.edu.co  
+* Nicolas Felipe Suarez Ariza - n.suareza@uniandes.edu.co
+  
+**Monitores**
+* Sophie Olmi Kreie - s.olmi@uniandes.edu.co
+* Daniel Benavides Santacruz - d.benavidess@uniandes.edu.co
 
 ## Contenido
 
